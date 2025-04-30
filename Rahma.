@@ -1,0 +1,16 @@
+
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>صفحتي الأولى</title>
+</head>
+<body>
+  <h1>مرحباً بك في صفحتي!</h1>
+  <p>هذه صفحة HTML بسيطة تحتوي على نص وصورة.</p>
+  <img src="https://via.placeholder.com/300" alt="صورة توضيحية">
+</body>
+</html>
+
+
